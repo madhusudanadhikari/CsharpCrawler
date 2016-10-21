@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\auto7Challenge.exe.config
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\auto7Challenge.exe
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\auto7Challenge.pdb
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\WebDriver.dll
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\WebDriver.Support.dll
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\WebDriver.xml
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\bin\Debug\WebDriver.Support.xml
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\obj\Debug\auto7Challenge.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\obj\Debug\auto7Challenge.exe
+c:\users\user\documents\visual studio 2015\Projects\auto7Challenge\auto7Challenge\obj\Debug\auto7Challenge.pdb

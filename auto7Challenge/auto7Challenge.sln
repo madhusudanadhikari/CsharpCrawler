@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auto7Challenge", "auto7Challenge\auto7Challenge.csproj", "{CCAF742B-F601-4646-8903-42728E9AD085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAF742B-F601-4646-8903-42728E9AD085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAF742B-F601-4646-8903-42728E9AD085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAF742B-F601-4646-8903-42728E9AD085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAF742B-F601-4646-8903-42728E9AD085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
